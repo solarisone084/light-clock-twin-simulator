@@ -1,5 +1,5 @@
 [![Author](https://img.shields.io/badge/author-solarisone084-green)](https://github.com/solarisone084)
-[![License](https://img.shields.io/github/license/solarisone084/light-clock-twin-simulator)](https://github.com/solarisone084/light-clock-twin-simulator/blob/main/LICENSE)
+[![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://github.com/solarisone084/light-clock-twin-simulator/blob/main/LICENSE)
 [![Top language](https://img.shields.io/github/languages/top/solarisone084/light-clock-twin-simulator)](https://github.com/solarisone084/light-clock-twin-simulator/search?l=matlab)
 [![MATLAB](https://img.shields.io/badge/MATLAB-no%20toolboxes%20needed-orange)](#requirements)
 [![Last commit](https://img.shields.io/github/last-commit/solarisone084/light-clock-twin-simulator)](https://github.com/solarisone084/light-clock-twin-simulator/commits/main)
