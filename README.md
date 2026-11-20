@@ -10,15 +10,11 @@ An interactive simulation of special relativity built around light clocks and th
 
 This project was originally completed as a final project for a scientific programming course. Development continues as a teaching tool.
 
-## App Controls
-<img width="75%" alt="App Controls" src="https://github.com/user-attachments/assets/2a396e67-9f32-4836-9bd5-f0c07a17c6d8" />
-
-
-
 ## Simulation Window (Default Settings)
 <img width="75%" alt="Simulation Window" src="https://github.com/user-attachments/assets/578334ab-7691-42d5-bbf4-ff1cc195859d" />
 
-
+## App Controls
+<img width="75%" alt="App Controls" src="https://github.com/user-attachments/assets/2a396e67-9f32-4836-9bd5-f0c07a17c6d8" />
 
 ## Status
 
