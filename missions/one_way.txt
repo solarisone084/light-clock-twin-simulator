@@ -1,0 +1,10 @@
+% a trip that never comes back. there is no reunion, so "who is older" has
+% no single answer -- the program warns about this when the file is loaded.
+
+name   = One way
+L      = 0.5
+L0     = 100
+frames = 300
+
+% beta   duration
+  0.6    10

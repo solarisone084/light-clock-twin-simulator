@@ -1,0 +1,12 @@
+% the textbook twin paradox: out at 0.6c for 10 years, back at 0.6c for 10.
+% Earth ages 20 years, the traveler 16.
+% times in years, distances in light-years (c = 1).
+
+name   = Standard out-and-back
+L      = 0.5        % mirror separation: one tick per year of a clock's own time
+L0     = 100        % ship rest length
+frames = 500
+
+% beta   duration
+  0.6    10
+ -0.6    10

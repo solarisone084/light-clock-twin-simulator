@@ -1,0 +1,13 @@
+% out at 0.8c for 5 years, parked for 10, back at 0.8c for 5.
+% the traveler ages 3 + 10 + 3 = 16 years. the parked leg costs nothing:
+% only the moving legs fall behind.
+
+name   = Park and return
+L      = 0.5
+L0     = 100
+frames = 500
+
+% beta   duration
+  0.8     5
+  0      10
+ -0.8     5

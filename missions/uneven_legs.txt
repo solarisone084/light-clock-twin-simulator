@@ -1,0 +1,12 @@
+% a slow trip out and a fast one back: 0.5c for 12 years covers 6 ly,
+% and 0.75c for 8 years covers the same 6 ly home.
+% the traveler ages 12/gamma(0.5) + 8/gamma(0.75) = 10.392 + 5.292 = 15.684 years.
+
+name   = Slow out, fast back
+L      = 0.5
+L0     = 100
+frames = 500
+
+% beta    duration
+  0.5     12
+ -0.75     8

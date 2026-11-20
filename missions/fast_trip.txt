@@ -1,0 +1,11 @@
+% same 20 years on Earth, but at 0.8c. gamma = 5/3, so the traveler ages
+% only 12 years and the ship is seen at 60% of its rest length.
+
+name   = Fast trip (0.8c)
+L      = 0.5
+L0     = 100
+frames = 500
+
+% beta   duration
+  0.8    10
+ -0.8    10

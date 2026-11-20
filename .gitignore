@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Office lock files and source decks (these can carry author names)
+~$*
+*.pptx
+
+# MATLAB autosave / backup files
+*.asv
+*.m~

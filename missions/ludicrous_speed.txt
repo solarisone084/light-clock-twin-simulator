@@ -1,0 +1,11 @@
+% light-clock mission profile
+% saved 2026-11-17 12:56:37
+
+name   = LUDICROUS SPEED
+L      = 0.5
+L0     = 100
+frames = 500
+
+% one leg per line: beta (v/c), then duration (lab-frame time)
+    0.99   10
+   -0.99   10
