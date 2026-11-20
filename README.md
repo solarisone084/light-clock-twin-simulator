@@ -1,3 +1,9 @@
+[![Author](https://img.shields.io/badge/author-solarisone084-blue)](https://github.com/solarisone084)
+[![License](https://img.shields.io/github/license/solarisone084/light-clock-twin-simulator)](LICENSE)
+[![Top language](https://img.shields.io/github/languages/top/solarisone084/light-clock-twin-simulator)](https://github.com/solarisone084/light-clock-twin-simulator/search?l=matlab)
+[![MATLAB](https://img.shields.io/badge/MATLAB-no%20toolboxes%20needed-orange)](#requirements)
+[![Last commit](https://img.shields.io/github/last-commit/solarisone084/light-clock-twin-simulator)](https://github.com/solarisone084/light-clock-twin-simulator/commits/main)
+
 # Light-Clock Twin Simulator
 
 An interactive simulation of special relativity built around light clocks and the twin paradox. Each twin carries a light clock and a ship. You plan a mission out of travel legs, then watch it unfold in four synchronized panels: the light clocks ticking, a spacetime diagram, the light signals the twins send each other (with Doppler shift), and a heads-up display of the running numbers. Time dilation, length contraction, the relativity of simultaneity and the Doppler effect all come from the same picture.
