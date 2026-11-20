@@ -1,4 +1,4 @@
-[![Author](https://img.shields.io/badge/author-solarisone084-blue)](https://github.com/solarisone084)
+[![Author](https://img.shields.io/badge/author-solarisone084-green)](https://github.com/solarisone084)
 [![License](https://img.shields.io/github/license/solarisone084/light-clock-twin-simulator)](LICENSE)
 [![Top language](https://img.shields.io/github/languages/top/solarisone084/light-clock-twin-simulator)](https://github.com/solarisone084/light-clock-twin-simulator/search?l=matlab)
 [![MATLAB](https://img.shields.io/badge/MATLAB-no%20toolboxes%20needed-orange)](#requirements)
